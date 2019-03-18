@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@openst/brandedtoken-contracts": "0.10.0-rc.1",
-    "@openstfoundation/mosaic.js": "https://github.com/OpenST/mosaic.js.git#release-0.10"
+    "@openst/mosaic.js": "https://github.com/OpenST/mosaic.js.git#release-0.10"
   },
   "devDependencies": {
     "eslint": "5.5.0",
